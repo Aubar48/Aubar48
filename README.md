@@ -19,7 +19,7 @@
                 alt="Nahuel Argandoña Instagram" height="30" width="40" style="max-width: 100%;"></a>
         <a href="https://www.youtube.com/channel/UCv3dFEz4UJQtPJxBWl8npPg" rel="nofollow"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-                alt="Nahuel Argandoña Youtube" height="30" width="40" style="max-width: 100%;"></a>
+                alt="Nahuel Argandoña Youtube" height="40" width="40" style="max-width: 100%;"></a>
         (ง︡'-'︠)ง
     </p>
 
