@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I’m Joaquin Ignacio Gonzalez </h1>
+<h1 align="center"> 👋 Hi, I’m Nahuel Argandoña </h1>
 <ul>
   <li>👀 I’m interested in informatic and graphic design</li>
   <li>🌱 I’m currently learning java,javascripts, Html, Css, Mysql, etc</li>
