@@ -1,8 +1,8 @@
-<h1 align="center"> 👋 Hi, I’m Nahuel Argandoña </h1>
+<h1 align="center">  ʕ•́ᴥ•̀ʔっ  Hi, I’m Nahuel Argandoña 🙊 </h1>
 <ul>
-  <li>👀 I’m interested in informatic and graphic design</li>
-  <li>🌱 I’m currently learning java,javascripts, Html, Css, Mysql, etc</li>
-  <li>💞️ I’m looking to collaborate on any proyect of my interest</li>
+  <li>👀 I’m interested in informatic and graphic design 👍</li>
+  <li>👋 I’m currently learning java,javascripts, Html, Css, Mysql, etc 🤔</li>
+  <li>⚡ I’m looking to collaborate on any proyect of my interest ❤</li>
   </ul>
  
 <h3 align="left">
