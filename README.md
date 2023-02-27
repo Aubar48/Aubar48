@@ -14,7 +14,7 @@
          href="https://www.linkedin.com/in/nahuel-argando%C3%B1a-534574224/" rel="nofollow"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="Nahuel Argandoña Linkedin" height="40" width="40" style="max-width: 100%;"></a>
-        <a href="https://www.instagram.com/nahuelargandona/?hl=es-la" rel="nofollow"><img align="center"
+        <a href="[https://www.instagram.com/nahuelargandona/?hl=es-la](https://www.instagram.com/aubar48/?hl=es-la)" rel="nofollow"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                 alt="Nahuel Argandoña Instagram" height="30" width="40" style="max-width: 100%;"></a>
         <a href="https://www.youtube.com/channel/UCv3dFEz4UJQtPJxBWl8npPg" rel="nofollow"><img align="center"
