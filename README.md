@@ -1,5 +1,5 @@
 <h1 align="center">  ʕ•́ᴥ•̀ʔっ  Hi, I’m Nahuel Argandoña 🙊 </h1>
-<h2 align="left"> I’m from Argentina and i live in Córdoba Capital now. I’m 29 years old, studying programing web full stack is a pleasure for me in Egg Education and Argentina Programa MindHub.</h2> 
+<h2 align="left"> I’m from Argentina and i live in Córdoba Capital now. I’m 29 years old,  i studying programing web full stack is a pleasure for me in Egg Education and Argentina Programa 4.0 MindHub.</h2> 
 <ul>
   <li style="color: blue;">👀 I’m interested in informatic and graphic design 👍</li>
   <li style="color: white; background-color: skyblue;">👋 I’m currently learning java,javascripts,html,css,mysql, etc 🤔</li>
