@@ -5,7 +5,8 @@
   <li style="color: white; background-color: skyblue;">👋 I’m currently learning java,javascripts,html,css,mysql, etc 🤔</li>
   <li style="color: white; background-color: green;">⚡ I’m looking to collaborate on any proyect of my interest ❤</li>
   </ul>
- Conectate conmigo: https://linktr.ee/aubar48
+  
+ <p> contact with me: https://linktr.ee/aubar48 </p>
 <div> 
   <a href="https://www.youtube.com/channel/UCv3dFEz4UJQtPJxBWl8npPg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/Aubar48" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
