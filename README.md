@@ -9,6 +9,7 @@
 <h3 align="left">
         Conectate conmigo:
 </h3>
+<a href="https://www.linkedin.com/in/Aubar48" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <p align="left">
         <a href="https://www.instagram.com/aubar48/?hl=es-la" rel="nofollow"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -23,7 +24,7 @@
 
 ![Nahuel Argandoña github stats](https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=radical&count_private=true)
 
-<a href="https://www.linkedin.com/in/Aubar48" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 
 
 
