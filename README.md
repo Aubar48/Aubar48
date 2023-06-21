@@ -31,12 +31,10 @@
   <img align="center" alt="VUEJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="ANGULARJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 </section>
-
-
+<section>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aubar48&layout=compact)](https://github.com/Aubar48/github-readme-stats)
-
 ![Nahuel Argandoña github stats](https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=radical&count_private=true)
-
+</section>
 
 
 
