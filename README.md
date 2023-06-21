@@ -28,6 +28,7 @@
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
   <img align="center" alt="SASS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="REACT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vue" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg">
 </section>
 
 
