@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/Aubar48" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![Nahuel Argandoña github stats](https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aubar48&layout=compact)](https://github.com/Aubar48/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aubar48)](https://github.com/Aubar48/github-readme-stats)
 
 <!---
 Nahuel Argandoña is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile- 
