@@ -4,7 +4,7 @@
   <h3 align="left"> I’m from Argentina and i live in Córdoba Capital now. I’m 29 years old,  i studying programing web full stack is a pleasure for me in Egg Education & Argentina Programa 4.0 MindHub LA & Digital House with Fundacion Formar & Argentina Programa 4.0 UTN 🐣</h3> 
 </section>
 <section>
-<ul style="text-decoration: none;">
+<ul text-decoration: "none">
   <li style="color: blue; text-decoration: none;">👀 I’m interested in informatic and graphic design 👍</li>
   <li style="color: white; background-color: skyblue; text-decoration: none;">👋 I’m currently learning java,javascripts,html,css,mysql, etc 🤔</li>
   <li style="color: white; background-color: green; text-decoration: none;">⚡ I’m looking to collaborate on any proyect of my interest ❤</li>
