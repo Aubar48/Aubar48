@@ -33,6 +33,7 @@
 </section>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aubar48&layout=compact)](https://github.com/Aubar48/github-readme-stats)
+<br>
 ![Nahuel Argandoña github stats](https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=radical&count_private=true)
 
 
