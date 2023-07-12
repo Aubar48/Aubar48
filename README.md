@@ -5,9 +5,9 @@
 </section>
 <section>
 <ul style="text-decoration: none;">
-  <li style="color: blue;">👀 I’m interested in informatic and graphic design 👍</li>
-  <li style="color: white; background-color: skyblue;">👋 I’m currently learning java,javascripts,html,css,mysql, etc 🤔</li>
-  <li style="color: white; background-color: green;">⚡ I’m looking to collaborate on any proyect of my interest ❤</li>
+  <li style="color: blue; text-decoration: none;">👀 I’m interested in informatic and graphic design 👍</li>
+  <li style="color: white; background-color: skyblue; text-decoration: none;">👋 I’m currently learning java,javascripts,html,css,mysql, etc 🤔</li>
+  <li style="color: white; background-color: green; text-decoration: none;">⚡ I’m looking to collaborate on any proyect of my interest ❤</li>
 </ul>
   <h3> contact with me: https://linktr.ee/aubar48 </h3>
 </section>
