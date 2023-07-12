@@ -1,6 +1,6 @@
 [![github.png](https://i.postimg.cc/Mp1RTn8p/nahuel48.jpg)](https://postimg.cc/BjQt7Q6r)
 <section>
-  <h1 align="center">ʕ•́ᴥ•̀ʔっ  Hi, I’m Nahuel Argandoña 🧔🏽 </h1>
+  <h1 align="left">ʕ•́ᴥ•̀ʔっ  Hi, I’m Nahuel Argandoña 🧔🏽 </h1>
   <h3 align="left"> I’m from Argentina and i live in Córdoba Capital now. I’m 29 years old,  i studying programing web full stack is a pleasure for me in Egg Education & Argentina Programa 4.0 MindHub LA & Digital House with Fundacion Formar & Argentina Programa 4.0 UTN 🐣</h3> 
 </section>
 <section>
