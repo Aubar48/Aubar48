@@ -30,9 +30,7 @@
   <img align="center" alt="VUEJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </section>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aubar48&layout=compact)](https://github.com/Aubar48/github-readme-stats)
-<br>
-![Nahuel Argandoña github stats](https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=radical&count_private=true)
+![Aubar48 GitHub stats](https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=transparent)
 
 
 
