@@ -30,8 +30,6 @@
   <img align="center" alt="VUEJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </section>
 
-![Aubar48 GitHub stats](https://github-readme-stats.vercel.app/api/?username=Aubar48\&locale=es)
-
 
 <!---
 Nahuel Argandoña is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile- 
