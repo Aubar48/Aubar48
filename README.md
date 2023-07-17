@@ -32,6 +32,7 @@
 
 ![Aubar48 GitHub stats](https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=transparent)
 
+![Aubar48 GitHub stats](https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=radical)
 
 
 
