@@ -1,6 +1,6 @@
-<div style="border-radius: 5px;">
+<img style="border-radius: 5px;">
   [![github.png](https://i.postimg.cc/Mp1RTn8p/nahuel48.jpg)](https://postimg.cc/BjQt7Q6r)
-</div>
+</img>
 
 <section>
   <h1 align="left">ʕ•́ᴥ•̀ʔっ  Hi, I’m Nahuel Argandoña 🧔🏽 </h1>
