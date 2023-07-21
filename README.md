@@ -1,5 +1,5 @@
 
-  [![github.png style="border-radius: 5px;"](https://i.postimg.cc/Mp1RTn8p/nahuel48.jpg)](https://postimg.cc/BjQt7Q6r)
+  [![github.png](https://i.postimg.cc/Mp1RTn8p/nahuel48.jpg)](https://postimg.cc/BjQt7Q6r)
 
 
 <section>
