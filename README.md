@@ -1,5 +1,5 @@
 
-[![05f13b18-8378-48ea-8b36-1809b87a2a53.png](https://i.postimg.cc/q7dGQq83/05f13b18-8378-48ea-8b36-1809b87a2a53.png)](https://postimg.cc/LJNf8HQ9)
+[05f13b18-8378-48ea-8b36-1809b87a2a53.png](https://postimg.cc/LJNf8HQ9)
 
 
 <section>
