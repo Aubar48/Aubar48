@@ -1,4 +1,4 @@
-<div> <a href="https://imgbb.com/"><img src="https://ibb.co/SvVb8nR" alt="05f13b18-8378-48ea-8b36-1809b87a2a53" border="0"></a> </div>
+<div> <a href="https://imgbb.com/"><img src="[https://ibb.co/SvVb8nR](https://ibb.co/SvVb8nR)" alt="05f13b18-8378-48ea-8b36-1809b87a2a53" border="0"></a> </div>
 
 <section>
   <h1 align="left">ʕ•́ᴥ•̀ʔっ  Hi, I’m Nahuel Argandoña 🧔🏽 </h1>
