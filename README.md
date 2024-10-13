@@ -8,7 +8,7 @@
 <section>
 <ul >
   <li style="color: blue;">🌱 I’m interested in informatic and graphic design 👾</li>
-  <li style="color: white; background-color: skyblue;">📖 I’m currently learning java, javascripts, python, html, css, tailwindcss, bootstrap, react, angular, mysql, mongoDb, etc 👀</li>
+  <li style="color: white; background-color: skyblue;">📖 I’m currently learning java, javascripts, python, html, css, tailwindcss, bootstrap, react, angular, mysql, mongodb, etc 👀</li>
   <li style="color: white; background-color: green;">⚡ I’m looking to collaborate on any proyect of my interest 💜</li>
 </ul>
   <h3>📫 Social media and portafolio: https://linktr.ee/aubar48 </h3>
