@@ -38,7 +38,7 @@
 </section>
 
 <h3>Github stats:</h3>
-<section height="40" width="50" >
+<section height="20" width="20" >
 
 [![](https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Aubar48)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Aubar48&theme=material-palenight)](https://github.com/Aubar48)
