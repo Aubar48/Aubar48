@@ -28,7 +28,7 @@
           <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
         </a>
         <a href="https://aubar48.github.io/miPortafolioNahuel/" target="_blank">
-          <img src="https://img.shields.io/badge/Portafolio-Personal-%23333?style=for-the-badge&logo=portfolio&logoColor=white">
+          <img src="https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=white">
         </a>
         <a href="https://www.linkedin.com/in/Aubar48" target="_blank">
           <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
