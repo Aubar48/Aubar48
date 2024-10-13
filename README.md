@@ -12,7 +12,6 @@
   <li style="color: white; background-color: green;">⚡ I’m looking to collaborate on any proyect of my interest 💜</li>
 </ul>
   <h3>📫 Social media and portafolio: https://linktr.ee/aubar48 </h3>
-  <h2> Email: <a href="nnahuell.gb@hotmail.com">nnahuell.gb@hotmail.com</a> </h2>
 </section>
 
 <section> 
