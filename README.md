@@ -2,7 +2,7 @@
 
 <section>
   <h1 align="left">ʕ•́ᴥ•̀ʔっ  Hi, I’m Nahuel Argandoña 🧔🏽 </h1>
-  <h3 align="left"> I’m from Argentina and i live in Córdoba Capital now. I’m 31 years old,  i studying programing web full stack is a pleasure for me in Egg Education & Argentina Programa 4.0 MindHub LA & Digital House with Fundacion Formar & Argentina       Programa 4.0 UTN, and i am currently studying software development technology at the Instituto Superior Politecnico de Córdoba "ISPC" 🐣</h3> 
+  <p align="left"> I’m from Argentina and i live in Córdoba Capital now. I’m 31 years old,  i studying programing web full stack is a pleasure for me in Egg Education & Argentina Programa 4.0 MindHub LA & Digital House with Fundacion Formar & Argentina       Programa 4.0 UTN, and i am currently studying software development technology at the Instituto Superior Politecnico de Córdoba "ISPC" 🐣</p> 
 </section>
 <section>
 <ul>
@@ -11,7 +11,7 @@
   <li style="color: white; background-color: green;">⚡ I’m looking to collaborate on any proyect of my interest 💜</li>
 </ul>
   
-  <h3>📫 Social media and portafolio: https://linktr.ee/aubar48 </h3>   <h3>📫 Contact with me in linkedin: https://www.linkedin.com/in/aubar48/ </h3>
+  <h3>📫 Social media and portafolio: https://linktr.ee/aubar48 </h3> 
 
 </section>
 <section> 
