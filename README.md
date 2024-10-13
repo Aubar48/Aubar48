@@ -1,7 +1,8 @@
+<div>
 <section>
-<div> <a href="https://imgbb.com/"><img src="https://i.ibb.co/9Yy6LTs/05f13b18-8378-48ea-8b36-1809b87a2a53.png" alt="05f13b18-8378-48ea-8b36-1809b87a2a53" border="0"></a> </div>
-  <h1 align="left"> Hi, I’m Nahuel Argandoña</h1>
-  <p align="left"> I’m from Argentina and i live in Córdoba Capital now. I’m 31 years old,  i studying programing web full stack is a pleasure for me in Egg Education & Argentina Programa 4.0 MindHub LA & Digital House with Fundacion Formar & Argentina Programa 4.0 UTN, and i am currently studying software development technology at the Instituto Superior Politecnico de Córdoba "ISPC" 🐣</p> 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/9Yy6LTs/05f13b18-8378-48ea-8b36-1809b87a2a53.png" alt="05f13b18-8378-48ea-8b36-1809b87a2a53" border="0"></a>
+<h1 align="left"> Hi, I’m Nahuel Argandoña</h1>
+<p align="left"> I’m from Argentina and i live in Córdoba Capital now. I’m 31 years old,  i studying programing web full stack is a pleasure for me in Egg Education & Argentina Programa 4.0 MindHub LA & Digital House with Fundacion Formar & Argentina Programa 4.0 UTN, and i am currently studying software development technology at the Instituto Superior Politecnico de Córdoba "ISPC" 🐣</p> 
 </section>
 
 <section>
@@ -22,8 +23,9 @@
   <a href="https://www.linkedin.com/in/Aubar48" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </section>
 
-<h3> Skills programing: </h3>  
 <section >
+  <h3> Skills programing: </h3>  
+
   <img align="center" alt="JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="PYTHON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
@@ -37,8 +39,8 @@
   <img align="center" alt="MongoDb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </section>
 
+<section >
 <h3>Github stats:</h3>
-<section height="20" width="20" >
 
 [![](https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Aubar48)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Aubar48&theme=material-palenight)](https://github.com/Aubar48)
