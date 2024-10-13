@@ -1,5 +1,5 @@
-<div> <a href="https://imgbb.com/"><img src="https://i.ibb.co/9Yy6LTs/05f13b18-8378-48ea-8b36-1809b87a2a53.png" alt="05f13b18-8378-48ea-8b36-1809b87a2a53" border="0"></a> </div>
 <section>
+<div> <a href="https://imgbb.com/"><img src="https://i.ibb.co/9Yy6LTs/05f13b18-8378-48ea-8b36-1809b87a2a53.png" alt="05f13b18-8378-48ea-8b36-1809b87a2a53" border="0"></a> </div>
   <h1 align="left"> Hi, I’m Nahuel Argandoña</h1>
   <p align="left"> I’m from Argentina and i live in Córdoba Capital now. I’m 31 years old,  i studying programing web full stack is a pleasure for me in Egg Education & Argentina Programa 4.0 MindHub LA & Digital House with Fundacion Formar & Argentina Programa 4.0 UTN, and i am currently studying software development technology at the Instituto Superior Politecnico de Córdoba "ISPC" 🐣</p> 
 </section>
@@ -10,9 +10,7 @@
   <li style="color: white; background-color: skyblue;">📖 I’m currently learning java, javascripts, python, html, css, tailwindcss, bootstrap, react, angular, mysql, mongoDb, etc 👀</li>
   <li style="color: white; background-color: green;">⚡ I’m looking to collaborate on any proyect of my interest 💜</li>
 </ul>
-  
   <h3>📫 Social media and portafolio: https://linktr.ee/aubar48 </h3> 
-
 </section>
 
 <section> 
@@ -22,9 +20,9 @@
   <a href="https://discord.gg/xwQatRBV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rociio.fressa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Aubar48" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <h3> Skills programing: </h3>  
 </section>
 
+<h3> Skills programing: </h3>  
 <section >
   <img align="center" alt="JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="PYTHON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -37,14 +35,14 @@
   <img align="center" alt="ANGULAR" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MongoDb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-
 </section>
 
 <h3>Github stats:</h3> 
-
+<section height="40" width="50" >
 [![](https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Aubar48)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Aubar48&theme=material-palenight)](https://github.com/Aubar48)
 </div>
+</section>
 
 <!---
 Nahuel Argandoña is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile- 
