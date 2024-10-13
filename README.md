@@ -1,10 +1,10 @@
 <div> <a href="https://imgbb.com/"><img src="https://i.ibb.co/9Yy6LTs/05f13b18-8378-48ea-8b36-1809b87a2a53.png" alt="05f13b18-8378-48ea-8b36-1809b87a2a53" border="0"></a> </div>
 <section>
-  <h1 align="left">ʕ•́ᴥ•̀ʔっ  Hi, I’m Nahuel Argandoña 🧔🏽 </h1>
+  <h1 align="left"> Hi, I’m Nahuel Argandoña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <p align="center"> I’m from Argentina and i live in Córdoba Capital now. I’m 31 years old,  i studying programing web full stack is a pleasure for me in Egg Education & Argentina Programa 4.0 MindHub LA & Digital House with Fundacion Formar & Argentina Programa 4.0 UTN, and i am currently studying software development technology at the Instituto Superior Politecnico de Córdoba "ISPC" 🐣</p> 
 </section>
 
-<section align="center">
+<section>
 <ul >
   <li style="color: blue;">🌱 I’m interested in informatic and graphic design 👾</li>
   <li style="color: white; background-color: skyblue;">📖 I’m currently learning java, javascripts, python, html, css, tailwindcss, bootstrap, react, angular, mysql, mongoDb, etc 👀</li>
