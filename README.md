@@ -1,11 +1,11 @@
-<div align="center"> <a href="https://imgbb.com/"><img src="https://i.ibb.co/9Yy6LTs/05f13b18-8378-48ea-8b36-1809b87a2a53.png" alt="05f13b18-8378-48ea-8b36-1809b87a2a53" border="0"></a> </div>
+<div> <a href="https://imgbb.com/"><img src="https://i.ibb.co/9Yy6LTs/05f13b18-8378-48ea-8b36-1809b87a2a53.png" alt="05f13b18-8378-48ea-8b36-1809b87a2a53" border="0"></a> </div>
 <section>
-  <h1 align="center">ʕ•́ᴥ•̀ʔっ  Hi, I’m Nahuel Argandoña 🧔🏽 </h1>
+  <h1 align="left">ʕ•́ᴥ•̀ʔっ  Hi, I’m Nahuel Argandoña 🧔🏽 </h1>
   <p align="center"> I’m from Argentina and i live in Córdoba Capital now. I’m 31 years old,  i studying programing web full stack is a pleasure for me in Egg Education & Argentina Programa 4.0 MindHub LA & Digital House with Fundacion Formar & Argentina Programa 4.0 UTN, and i am currently studying software development technology at the Instituto Superior Politecnico de Córdoba "ISPC" 🐣</p> 
 </section>
 
-<section>
-<ul>
+<section align="center">
+<ul >
   <li style="color: blue;">🌱 I’m interested in informatic and graphic design 👾</li>
   <li style="color: white; background-color: skyblue;">📖 I’m currently learning java, javascripts, python, html, css, tailwindcss, bootstrap, react, angular, mysql, mongoDb, etc 👀</li>
   <li style="color: white; background-color: green;">⚡ I’m looking to collaborate on any proyect of my interest 💜</li>
@@ -25,7 +25,7 @@
   <h3> Skills programing: </h3>  
 </section>
 
-<section>
+<section >
   <img align="center" alt="JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="PYTHON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
