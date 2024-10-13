@@ -59,11 +59,8 @@
   <section>
     <h3>Github stats:</h3>
 
-    <a href="https://github.com/Aubar48">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Github stats">
-    </a>
-    <a href="https://github.com/Aubar48">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aubar48&theme=material-palenight" alt="Github streak stats">
-    </a>
+  [![](https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Aubar48)
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=Aubar48&theme=material-palenight)](https://github.com/Aubar48)
+  
   </section>
 </div>
