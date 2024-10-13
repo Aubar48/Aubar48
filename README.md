@@ -11,7 +11,7 @@
   <li style="color: white; background-color: skyblue;">📖 I’m currently learning java, javascripts, python, html, css, tailwindcss, bootstrap, react, angular, mysql, mongoDb, etc 👀</li>
   <li style="color: white; background-color: green;">⚡ I’m looking to collaborate on any proyect of my interest 💜</li>
 </ul>
-  <h3>📫 Social media and portafolio: https://linktr.ee/aubar48 </h3> 
+  <h3>📫 Social media and email: nnahuell.gb@hotmail.com and portafolio: https://linktr.ee/aubar48 </h3> 
 </section>
 
 <section> 
@@ -19,7 +19,6 @@
   <a href="https://instagram.com/Aubar48" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/aubarcito" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://aubar48.github.io/miPortafolioNahuel/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-Personal-%23333?style=for-the-badge&logo=portfolio&logoColor=white"></a>
-  <a href="mailto:rociio.fressa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/Aubar48" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </section>
 
