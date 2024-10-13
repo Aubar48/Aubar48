@@ -1,9 +1,10 @@
 <div> <a href="https://imgbb.com/"><img src="https://i.ibb.co/9Yy6LTs/05f13b18-8378-48ea-8b36-1809b87a2a53.png" alt="05f13b18-8378-48ea-8b36-1809b87a2a53" border="0"></a> </div>
-
+<h3> About me: </h3>  
 <section>
   <h1 align="left">ʕ•́ᴥ•̀ʔっ  Hi, I’m Nahuel Argandoña 🧔🏽 </h1>
-  <p align="left"> I’m from Argentina and i live in Córdoba Capital now. I’m 31 years old,  i studying programing web full stack is a pleasure for me in Egg Education & Argentina Programa 4.0 MindHub LA & Digital House with Fundacion Formar & Argentina       Programa 4.0 UTN, and i am currently studying software development technology at the Instituto Superior Politecnico de Córdoba "ISPC" 🐣</p> 
+  <p align="center"> I’m from Argentina and i live in Córdoba Capital now. I’m 31 years old,  i studying programing web full stack is a pleasure for me in Egg Education & Argentina Programa 4.0 MindHub LA & Digital House with Fundacion Formar & Argentina Programa 4.0 UTN, and i am currently studying software development technology at the Instituto Superior Politecnico de Córdoba "ISPC" 🐣</p> 
 </section>
+
 <section>
 <ul>
   <li style="color: blue;">🌱 I’m interested in informatic and graphic design 👾</li>
@@ -14,6 +15,7 @@
   <h3>📫 Social media and portafolio: https://linktr.ee/aubar48 </h3> 
 
 </section>
+
 <section> 
   <a href="https://www.youtube.com/channel/UCv3dFEz4UJQtPJxBWl8npPg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/Aubar48" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,6 +25,7 @@
   <a href="https://www.linkedin.com/in/Aubar48" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <h3> Skills programing: </h3>  
 </section>
+
 <section>
   <img align="center" alt="JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="PYTHON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -38,7 +41,7 @@
 
 </section>
 
-<h2>Github stats:</h2> 
+<h3>Github stats:</h3> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Aubar48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Aubar48)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Aubar48&theme=material-palenight)](https://github.com/Aubar48)
