@@ -11,7 +11,8 @@
   <li style="color: white; background-color: skyblue;">📖 I’m currently learning java, javascripts, python, html, css, tailwindcss, bootstrap, react, angular, mysql, mongoDb, etc 👀</li>
   <li style="color: white; background-color: green;">⚡ I’m looking to collaborate on any proyect of my interest 💜</li>
 </ul>
-  <h3>📫 Social media and  <a href="nnahuell.gb@hotmail.com">nnahuell.gb@hotmail.com</a> <hr> And portafolio: https://linktr.ee/aubar48 </h3> 
+  <h3>📫 Social media and portafolio: https://linktr.ee/aubar48 </h3>
+  Emial: <a href="nnahuell.gb@hotmail.com">nnahuell.gb@hotmail.com</a>
 </section>
 
 <section> 
