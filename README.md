@@ -2,7 +2,7 @@
   <section>
     <img src="https://i.ibb.co/9Yy6LTs/05f13b18-8378-48ea-8b36-1809b87a2a53.png" alt="nahuel" border="0">
     <h1 align="left"> Hi, I’m Nahuel Argandoña</h1>
-    <img align="right" width="300px" alt="Unicorn" src="https://tenor.com/search/dev_animado-gifs">
+    <img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif">
     <p align="left">I’m from Argentina and I live in Córdoba Capital now. I’m 31 years old, studying web programming full stack is a pleasure for me in Egg Education & Argentina Programa 4.0 MindHub LA & Digital House with Fundacion Formar & Argentina Programa 4.0 UTN, and I am currently studying software development technology at the Instituto Superior Politecnico de Córdoba "ISPC" 🐣</p>
   </section>
 
