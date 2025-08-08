@@ -17,7 +17,7 @@
   <section>
     <ul>
       <li>
-        <a href="https://aubar48.github.io/miPortafolioNahuel/" target="_blank">
+        <a href="https://glittering-lolly-b5e4d4.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=white">
         </a>
         <a href="https://www.linkedin.com/in/Aubar48" target="_blank">
