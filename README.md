@@ -12,8 +12,6 @@ Aprender y construir en tecnología es una verdadera pasión para mí. ¡Gracias
   <section>
     <ul>
       <li style="color: blue;">🌱 I’m interested in informatics and graphic design 👾</li>
-      <li style="color: white; background-color: skyblue;">📖 I’m currently learning Java, JavaScript, Python, HTML, CSS, Tailwind CSS, Bootstrap, React, Angular, MySQL, MongoDB, etc 👀</li>
-      <li style="color: white; background-color: green;">⚡ I’m looking to collaborate on any project of my interest 💜</li>
     </ul>
     <h3>📫 Social media and portfolio: <a href="https://linktr.ee/aubar48" target="_blank">https://linktr.ee/aubar48</a></h3>
   </section>
