@@ -22,11 +22,11 @@ Aprender y construir en tecnología es una verdadera pasión para mí. ¡Gracias
         <a href="https://www.canva.com/design/DAFoP4HTDqk/YW9Jg6z0ouwf7GeaChLSvg/view?utm_content=DAFoP4HTDqk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he143a9d067" target="_blank">
           <img src="https://img.shields.io/badge/Curriculum-%23333?style=for-the-badge&logo=curriculum&logoColor=white">
         </a>
-        <a href="https://glittering-lolly-b5e4d4.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=white">
-        </a>
         <a href="https://www.linkedin.com/in/Aubar48" target="_blank">
           <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+        <a href="https://glittering-lolly-b5e4d4.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=white">
         </a>
       </li>
     </ul>
