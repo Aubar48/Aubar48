@@ -1,7 +1,7 @@
 <div>
   <section>
     <h1 align="left"> Hi, I’m Nahuel Argandoña. Welcome to my profile</h1>
-    <img align="right" width="320px" src="https://i.postimg.cc/C56tm6Gr/0fd2c8e9-0370-490c-81e7-8e0845bb6c85-isnet-general-use.png" alt="nahuel" border="0">
+    <img align="right" width="350px" src="https://i.postimg.cc/C56tm6Gr/0fd2c8e9-0370-490c-81e7-8e0845bb6c85-isnet-general-use.png" alt="nahuel" border="0">
     <p align="left">Actualmente vivo en Córdoba Capital. Tengo 32 años y estoy estudiando la Tecnicatura Superior en Desarrollo de Software en el Instituto Superior Politécnico de Córdoba (ISPC).
 
 🐣 He completado capacitaciones en programación web full stack a través de los años, en Egg Education & Argentina Programa 4.0, MindHub LA & Digital House con Fundación Formar, Argentina Programa 4.0 con la UTN, Technology With Purpose de desarrollador full stack, qa manual y qa automatización.
