@@ -9,8 +9,6 @@
 Aprender y construir en tecnología es una verdadera pasión para mí. ¡Gracias por tomarte el tiempo de mirar</p>
   </section>
   
----
-
   <section>
     <ul>
       <li style="color: blue;">🌱 I’m interested in informatics and graphic design 👾</li>
@@ -18,8 +16,6 @@ Aprender y construir en tecnología es una verdadera pasión para mí. ¡Gracias
     <h3>📫 Social media and portfolio: <a href="https://linktr.ee/aubar48" target="_blank">https://linktr.ee/aubar48</a></h3>
   </section>
   
----
-
   <section>
     <ul>
       <li>
@@ -35,8 +31,6 @@ Aprender y construir en tecnología es una verdadera pasión para mí. ¡Gracias
       </li>
     </ul>
   </section
-    
----
 
   <section>
     <h3>Skills in programming:</h3>
@@ -56,8 +50,6 @@ Aprender y construir en tecnología es una verdadera pasión para mí. ¡Gracias
     </ul>
   </section>
   
----
-
   <section>
     <h3>Github stats:</h3>
 
