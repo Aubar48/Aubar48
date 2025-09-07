@@ -1,8 +1,11 @@
 <div>
   <section>
-    <h1>👋 Hi, I’m Nahuel Argandoña. Welcome to my profile</h1>
+    <h1 align="left"> Hi, I’m Nahuel Argandoña. Welcome to my profile</h1>
     <p>
-      <img src="https://i.postimg.cc/C56tm6Gr/0fd2c8e9-0370-490c-81e7-8e0845bb6c85-isnet-general-use.png" alt="nahuel" width="100%" style="max-width:300px; float:right; margin-left:10px;">
+      <img src="https://i.postimg.cc/C56tm6Gr/0fd2c8e9-0370-490c-81e7-8e0845bb6c85-isnet-general-use.png" 
+           alt="nahuel" 
+           width="100%" 
+           style="max-width:300px; float:right; margin-left:10px;">
       Actualmente vivo en Córdoba Capital. Tengo 32 años y estoy estudiando la Tecnicatura Superior en Desarrollo de Software en el Instituto Superior Politécnico de Córdoba (ISPC).
     </p>
 
@@ -23,8 +26,8 @@ Aprender y construir en tecnología es una verdadera pasión para mí. ¡Gracias
 ---
 
 ### 📂 Curriculum & Profiles
-<p align="left">
-  <a href="https://www.canva.com/design/DAFoP4HTDqk/YW9Jg6z0ouwf7GeaChLSvg/view?utm_content=DAFoP4HTDqk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he143a9d067" target="_blank">
+<p align="center">
+  <a href="https://www.canva.com/design/DAFoP4HTDqk/YW9Jg6z0ouwf7GeaChLSvg/view" target="_blank">
     <img src="https://img.shields.io/badge/Curriculum-%23333?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/Aubar48" target="_blank">
