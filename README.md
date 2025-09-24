@@ -58,5 +58,3 @@ Aprender y construir en tecnología es una verdadera pasión para mí. ¡Gracias
   
   </section>
 </div>
-
-tengo que hacerlo responsive para mobile es para mi readme.md de github
