@@ -40,20 +40,48 @@ Aprender y construir en tecnología es una verdadera pasión para mí. ¡Gracias
 
   <section>
     <h3>Skills in programming:</h3>
-    <ul>
-      <li>
-        <img align="center" alt="PYTHON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-        <img align="center" alt="tailwindcss" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-        <img align="center" alt="REACT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-        <img align="center" alt="ANGULAR" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-        <img align="center" alt="MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-        <img align="center" alt="MongoDb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-      </li>
-    </ul>
+   <section class="icons-skills">
+              <a href="https://docs.python.org/" target="_blank" rel="noopener noreferrer" aria-label="Documentación de Python">
+                <img  alt="Python - Lenguaje de programación" height="40" width="50" loading="lazy"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+              </a>
+              <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" aria-label="Documentación de JavaScript">
+                <img  alt="JavaScript - Lenguaje de programación" height="30" width="40" loading="lazy"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+              </a>
+              <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noopener noreferrer" aria-label="Documentación de HTML5">
+                <img  alt="HTML5 - Marcado web" height="30" width="40" loading="lazy"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+              </a>
+              <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noopener noreferrer" aria-label="Documentación de CSS3">
+                <img  alt="CSS3 - Estilos web" height="30" width="40" loading="lazy"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+              </a>
+              <a href="https://getbootstrap.com/docs/" target="_blank" rel="noopener noreferrer" aria-label="Documentación de Bootstrap">
+                <img  alt="Bootstrap - Framework CSS" height="40" width="50" loading="lazy"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+              </a>
+              <a href="https://tailwindcss.com/docs" target="_blank" rel="noopener noreferrer" aria-label="Documentación de Tailwind CSS">
+                <img  alt="Tailwind CSS - Framework CSS" height="40" width="50" loading="lazy"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+              </a>
+              <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" aria-label="Documentación de React">
+                <img  alt="React - Biblioteca JavaScript" height="40" width="50" loading="lazy"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+              </a>
+              <a href="https://angular.dev/" target="_blank" rel="noopener noreferrer" aria-label="Documentación de Angular">
+                <img  alt="Angular - Framework JavaScript" height="40" width="50" loading="lazy"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+              </a>
+              <a href="https://dev.mysql.com/doc/" target="_blank" rel="noopener noreferrer" aria-label="Documentación de MySQL">
+                <img  alt="MySQL - Base de datos" height="40" width="50" loading="lazy"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+              </a>
+              <a href="https://www.mongodb.com/docs/" target="_blank" rel="noopener noreferrer" aria-label="Documentación de MongoDB">
+                <img  alt="MongoDB - Base de datos NoSQL" height="40" width="50" loading="lazy"
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+              </a>
+            </section>
   </section>
   
   <section>
