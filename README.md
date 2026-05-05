@@ -38,7 +38,7 @@ Aprender y construir en tecnología es una verdadera pasión para mí. ¡Gracias
     </ul>
   </section
 
-  <section>
+
     <h3>Skills in programming:</h3>
    <section class="icons-skills">
               <a href="https://docs.python.org/" target="_blank" rel="noopener noreferrer" aria-label="Documentación de Python">
@@ -82,7 +82,7 @@ Aprender y construir en tecnología es una verdadera pasión para mí. ¡Gracias
                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
               </a>
             </section>
-  </section>
+
   
   <section>
     <h3>Github stats:</h3>
