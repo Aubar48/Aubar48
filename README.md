@@ -4,14 +4,14 @@
     <img align="right" width="370px" src="https://i.postimg.cc/C56tm6Gr/0fd2c8e9-0370-490c-81e7-8e0845bb6c85-isnet-general-use.png" alt="nahuel" border="0">
     <p align="left">Actualmente vivo en Córdoba Capital. Tengo 32 años y estoy estudiando la Tecnicatura Superior en Desarrollo de Software en el Instituto Superior Politécnico de Córdoba (ISPC).
 
-🐣 He completado capacitaciones en programación web full stack a través de los años, en Egg Education & Argentina Programa 4.0, MindHub LA & Digital House con Fundación Formar, Argentina Programa 4.0 con la UTN, Technology With Purpose de desarrollador full stack, qa manual y qa automatización.
+He completado capacitaciones en programación web full stack a través de los años, en Egg Education & Argentina Programa 4.0, MindHub LA & Digital House con Fundación Formar, Argentina Programa 4.0 con la UTN, Technology With Purpose de desarrollador full stack, qa manual y qa automatización.
 
 Aprender y construir en tecnología es una verdadera pasión para mí. ¡Gracias por tomarte el tiempo de mirar</p>
   </section>
   
   <section>
     <ul>
-      <li style="color: blue;">🌱 I’m interested in informatics and graphic design 👾</li>
+      <li style="color: blue;">👾 I’m interested in informatics and graphic design </li>
     </ul>
     <h3>📫 Social media and portfolio: <a href="https://linktr.ee/aubar48" target="_blank">https://linktr.ee/aubar48</a></h3>
   </section>
