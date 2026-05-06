@@ -38,8 +38,9 @@ Aprender y construir en tecnología es una verdadera pasión para mí. ¡Gracias
     </ul>
   </section
 
+ <section>
  <h3>💻 Skills in programming:</h3>
-
+</section
 <p align="left">
   <a href="https://docs.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
